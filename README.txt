@@ -1,4 +1,4 @@
-0.  "project.py"£º python code for projection
+0.  "project.py": python code for projection
 
 1. "long_tg.txt": the file for the generation time distribution. 
 Each row includes two columns with the following format:
@@ -13,3 +13,5 @@ Each row is an estiamte of R_final.
 4. "Rt.c": estimating Rt, using run.sh to run
 
 5. "Tg_7.5": each row with two values: shape and rate for the gamma distribution of the generation time. 
+
+6. "Sichuan_2020-02-29": each row includes three columns: date, daily number of symptomatic cases, daily number of imported cases
